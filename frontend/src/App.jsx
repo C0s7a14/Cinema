@@ -1,10 +1,12 @@
 
+import './App.css'
+
 function App() {
+
+
   return (
-   <fotm id= "diretorForm">
-    <label for = "nome">Nome:</label>
-    <input type="text" id="nome" name="nome" />
-   </fotm>
+    <div className='text-red-600' >oi</div>
+ 
   )
 }
 
